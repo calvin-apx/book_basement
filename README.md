@@ -36,7 +36,7 @@ The seeder creates an admin account, `john_smith@gmail.com` with password `passw
 
 ## Mobile app integration
 
-The Android app calls the JSON endpoints under `products`, `genres`, `appointments`, `cartList`, `favorites`, `recommendation`, and `user`. It expects the backend at `http://<host>/BookBasementApp/public/`, so either serve the app from that path or update `Constants/URL.java` in the mobile project.
+The Android app calls the JSON endpoints under `products`, `genres`, `appointments`, `cartList`, `favorites`, `recommendation`, and `user`. It expects the backend at `http://<host>/BookBasementApp/public/`, so either serve the app from that path or update `Constants/URL.java` in the mobile project. See [docs/API.md](docs/API.md) for the endpoint list.
 
 ## Project layout
 
