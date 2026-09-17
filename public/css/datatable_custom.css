@@ -1,0 +1,10 @@
+li.paginate_button:hover {
+    background: transparent !important;
+    border: transparent !important;
+    box-shadow: none !important;
+}
+li.paginate_button:focus {
+    background: transparent !important;
+    border: transparent !important;
+    box-shadow: none !important;
+}
